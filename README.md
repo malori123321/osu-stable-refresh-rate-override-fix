@@ -73,3 +73,11 @@ This project is independent and is not affiliated with osu! or ppy.
 ## Privacy
 
 Never upload your complete osu! configuration file. It may contain saved credentials or other personal information.
+
+## Community Results
+
+See [RESULTS.md](RESULTS.md) for preliminary findings.
+
+Want to contribute? [Submit a test report](../../issues/new/choose).
+
+Both positive and negative results are welcome.
